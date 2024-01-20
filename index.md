@@ -15,7 +15,7 @@
 
 ## Background
 
-[link to background](/background)
+[link to background](/background.md)
 
 ## Results
 
