@@ -1,11 +1,14 @@
 # Homepage
 
-## Who-Wa-Way
+## Team 205: Who-Wa-Way
 
 ## Project: Smart Bloom Pot
+## Preparation Date: ???
+## University: Arizona State University (ASU)
 ## Class Name: EGR314:Embedded System Design Project II
 ## Semester: Spring
 ## Year: 2024
+## Professor: Kelley
 
 ## Team Members:
 * LuYan Tan
