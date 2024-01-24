@@ -2,7 +2,7 @@
 
 ## Who-Wa-Way
 
-## Project: Drone Weather Device (DWD)
+## Project: Smart Bloom Pot
 ## Class Name: EGR314:Embedded System Design Project II
 ## Semester: Spring
 ## Year: 2024
