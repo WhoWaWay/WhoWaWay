@@ -1,6 +1,6 @@
 # Homepage
-# Title
-## Project: Smart Bloom Pot
+
+# Project: Smart Bloom Pot
 ## Team 205: Who-Wa-Way
 ## Team Members:
 1. LuYan Tan
