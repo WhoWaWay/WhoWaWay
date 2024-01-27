@@ -66,17 +66,17 @@ We will discuss who is capable of doing which task and assign it to them. Those 
 ## Team Coordination & Accountability:
 
 ### How we will:
-1. Ensure that assignments are submitted before deadlines and each team member has "signed off" on each submitted assignment?
+4. Ensure that assignments are submitted before deadlines and each team member has "signed off" on each submitted assignment?
    
   Enforce meeting times and work on assignments at agreed-upon time slots
   
   One of us will be assigned to submit the assignment
   
-2. Ensure that each team member has the knowledge and skill required for each assignment, and how you will adjust if not?
+4. Ensure that each team member has the knowledge and skill required for each assignment, and how you will adjust if not?
    
 Interactive lessons and research/switch assigned sections based on ability.
 
-3. Ensure that feedback from your design review is distributed to and acted on by every member of the team?
+4. Ensure that feedback from your design review is distributed to and acted on by every member of the team?
    
 Each team member will edit other members' sections based on feedback to ensure adequate knowledge in all areas of the project.
 
@@ -85,19 +85,19 @@ Each team member will edit other members' sections based on feedback to ensure a
 Talk to the struggling member 
 Have a meeting and get caught up together on what we miss
 
-5. Hold one another accountable to the expectations described in this charter.
+4. Hold one another accountable to the expectations described in this charter.
    
 Verbal Agreement
 
-6. Recognize that a team member is underperforming.
+4. Recognize that a team member is underperforming.
    
 We are happy to help each other so it is encouraged to let other team members know when help is needed.
 
-7. Help an underperforming team member improve.
-   
+4. Help an underperforming team member improve.
+  
 Understanding other team members well is helpful to determine where their strengths and weaknesses are and it can be helpful to know when each team member needs help in the team works.
 
-8. What are the consequences if an underperforming team member does not improve (e.g., pink slip)?
+4. What are the consequences if an underperforming team member does not improve (e.g., pink slip)?
 
 Discuss the situations that led to their lack of contribution and discuss possible solutions as a group. (if the issue is a prior commitment or a nap, things can be rearranged)
 
