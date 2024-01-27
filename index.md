@@ -25,13 +25,6 @@
 
 # [Team Presentation](Presentation.md)
 
+# [Appendix](/Appendix.md)
 [link to background](/background.md)
-## Results
 
-
-
-## Appendix
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
