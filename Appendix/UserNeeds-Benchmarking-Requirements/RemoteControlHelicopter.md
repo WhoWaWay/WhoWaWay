@@ -4,11 +4,11 @@
 * Price: $42.39
 * Vendor: SYMA
 
-1.【Altitude Hold Function】Compared with other helicopters,SYMA S107H-E with this function but most of others without this function.it be locked at a certain height when you release the throttle stick, which makes it easier to control the helicopter for beginner and kids.
-1.【One Key Take Off/Landing】RC helicopter will hover at certain altitude automatically after taking off/landing with this functions.it is easy to operate for kids and beginers.
-1.【Whole Alloy body&Anti-Collision】Whole alloy material weight 0.97LB is very sturdy with longer lifespan, which is suit for kids and beginner to play as no serious damage or dysfunctional appearance after many times crashes.
-1.【Full 3.5 Channels & 2 Selectable Frequencies】Up, Down, Left, Right, Forward and Backward built-in Gyro to hover in the air.Moves More Flexible and Stable.2 Selectable Frequencies Let You Fly Up To 2 Helicopters At Once.
-1.【[Helicopter with several certificates】FCC, CE, ROHS, EN71, EN62115, EN60825, R&TTE, PAHS, HR4040, 6P, ASTM,REACH. Compatible with US standard. It is very safety for kids playing.
+1. 【Altitude Hold Function】Compared with other helicopters,SYMA S107H-E with this function but most of others without this function.it be locked at a certain height when you release the throttle stick, which makes it easier to control the helicopter for beginner and kids.
+1. 【One Key Take Off/Landing】RC helicopter will hover at certain altitude automatically after taking off/landing with this functions.it is easy to operate for kids and beginers.
+1. 【Whole Alloy body&Anti-Collision】Whole alloy material weight 0.97LB is very sturdy with longer lifespan, which is suit for kids and beginner to play as no serious damage or dysfunctional appearance after many times crashes.
+1. 【Full 3.5 Channels & 2 Selectable Frequencies】Up, Down, Left, Right, Forward and Backward built-in Gyro to hover in the air.Moves More Flexible and Stable.2 Selectable Frequencies Let You Fly Up To 2 Helicopters At Once.
+1. 【[Helicopter with several certificates】FCC, CE, ROHS, EN71, EN62115, EN60825, R&TTE, PAHS, HR4040, 6P, ASTM,REACH. Compatible with US standard. It is very safety for kids playing.
 
 ## Negative Reviews
 <img width="583" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/03679af8-bbe0-4350-bf05-891dcb5f89c5">
