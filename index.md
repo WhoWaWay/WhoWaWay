@@ -1,6 +1,6 @@
 # Who-Wa-Way Homepage
 <img width="666" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/5820f121-d3da-4e51-8556-4de37f0792f6">
-<iframe width="1280" height="720" src="https://img.youtube.com/vi/ffoTx4-Wpwo/0.jpg" title="Can I Beat Elden Ring While Hard The Entire Time?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[https://img.youtube.com/vi/ffoTx4-Wpwo/0.jpg]
 
 # Project: Smart Bloom Pot
 ## Team 205: Who-Wa-Way
