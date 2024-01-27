@@ -18,7 +18,9 @@
 ## Charter:
 * Our team's goal is to create a portable weather station to inform the user of the current UV light, humidity, and wind speed. This device should be able to water the plants/flowers by sensing the temperature and humidity, connecting to wifi as well as alerting the user of severe weather changes. 
 ## Mission Statement:
-* The primary objective is to create a user-friendly smart flower pot capable of autonomously expanding its protection based on real-time environmental conditions. Additionally, the system will incorporate a feature to record wind force, enhancing the flower’s safety and convenience for the plant’s owner. This design will seamlessly integrate temperature and humidity sensors, providing an innovative solution for ultimate greenhouse protection. 
+* The primary objective is to create a user-friendly smart flower pot capable of autonomously expanding its protection based on real-time environmental conditions. Additionally, the system will incorporate a feature to record wind force, enhancing the flower’s safety and convenience for the plant’s owner. This design will seamlessly integrate temperature and humidity sensors, providing an innovative solution for ultimate greenhouse protection.
+
+##
 
 # User Needs, Benchmarking, and Requirement
 * After reading several product reviews, the team came up with the user needs list. We learned what the user needs in a product. Users need a product that works, easy to use with simple instructions, and does what it is meant for. Then, we sorted the user needs into five categories: pricing, features, user-friendliness, design, and safety. Users need a product that has the features they are looking for, safe to use, stable connection, and at a reasonable price. 
@@ -35,7 +37,7 @@
 
 # Presentation 1
 [Team 205 Presentation](https://youtu.be/2uYKR5V-WF4?si=a0ECjcEHt2iz6rB6)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2uYKR5V-WF4?si=Y8DM2-ng1RldqWye&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 [link to background](/background.md)
