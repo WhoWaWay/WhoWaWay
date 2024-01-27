@@ -27,7 +27,7 @@
 
 
 ## Appendix
-[Team 205 Presentation](<iframe width="560" height="315" src="https://www.youtube.com/embed/2uYKR5V-WF4?si=x9x_F-mo6qpirmbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+[Team 205 Presentation](https://youtu.be/2uYKR5V-WF4?si=a0ECjcEHt2iz6rB6)
 
 [example link to idealab](https://idealab.asu.edu)
 
