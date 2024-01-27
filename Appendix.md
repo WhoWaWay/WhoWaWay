@@ -5,7 +5,7 @@
 
 [Figure 3](/Appendix/TeamOrganization/Figure3.md)
 
-# User Needs Benchmarking and Requirements
+# User Needs, Benchmarking, and Requirements
 [Pocket Weather Meter](/Appendix/UserNeeds-Benchmarking-Requirements/PocketWeatherMeter.md)
 
 [Remote Control Helicopter](/Appendix/UserNeeds-Benchmarking-Requirements/RemoteControlHelicopter.md)
@@ -18,5 +18,11 @@
 
 [Wireless Digital Thermometer](/Appendix/UserNeeds-Benchmarking-Requirements/WirelessDigitalThermometer.md)
 
-# [Jamboard](/Appendix/Design-Ideation/Jamboard.md)
+## User Needs Jamboard
+[Jamboard Before Grouping](Appendix/UserNeeds-Benchmarking-Requirements/JamboardBefore.md)
+[Jamboard After Grouping](Appendix/UserNeeds-Benchmarking-Requirements/JamboardAfter.md)
+[Jamboard After Ranking](Appendix/UserNeeds-Benchmarking-Requirements/JamboardRanking.md)
+
+# Design Ideation
+[Jamboard](/Appendix/Design-Ideation/Jamboard.md)
 
