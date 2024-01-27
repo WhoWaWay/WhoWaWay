@@ -13,7 +13,7 @@ Mainly via texting, zoom, and in-person meetings.
 
 Lana, the meeting leader, will function as PR for the group and take control of the situation.
 
-
+<img width="523" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/46b25515-d0db-463d-9335-6b575a292da5">
 
 [Figure 2: Team Member's Availability](Appendix/TeamOrganization/Figure2.md)
 
@@ -31,6 +31,7 @@ Additional meetings will be scheduled occasionally when more time is needed to c
 
 Prefer in-person meetings. However, virtual meetings can be held when it’s late or during the weekend.
 
+<img width="511" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/5318c515-44e2-4615-97cc-1f136fafd5ae">
 
 [Figure 3: Roles & Responsibilities](Appendix/TeamOrganization/Figure3.md)
 
