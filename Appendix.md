@@ -18,7 +18,7 @@
 
 [Wireless Digital Thermometer](/Appendix/UserNeeds-Benchmarking-Requirements/WirelessDigitalThermometer.md)
 
-# Jamboard
+# [Jamboard](/Appendix/Design-Ideation/Jamboard.md)
 
 [Jamboard before grouping](/Appendix/Design-Ideation/JamboardBefore.md)
 
