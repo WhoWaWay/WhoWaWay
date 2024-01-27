@@ -6,14 +6,14 @@
 [Figure 3](/Appendix/TeamOrganization/Figure3.md)
 
 # User Needs Benchmarking and Requirements
-[Figure 1](/Appendix/UserNeeds-Benchmarking-Requirements/PocketWeatherMeter.md)
+[Pocket Weather Meter](/Appendix/UserNeeds-Benchmarking-Requirements/PocketWeatherMeter.md)
 
-[Figure 2](/Appendix/UserNeeds-Benchmarking-Requirements/RemoteControlHelicopter.md)
+[Remote Control Helicopter](/Appendix/UserNeeds-Benchmarking-Requirements/RemoteControlHelicopter.md)
 
-[Figure 3](/Appendix/UserNeeds-Benchmarking-Requirements/SmartWeatherStation.md)
+[Smart Weather Station](/Appendix/UserNeeds-Benchmarking-Requirements/SmartWeatherStation.md)
 
-[Figure 4](/Appendix/UserNeeds-Benchmarking-Requirements/UmbrellaHat.md)
+[Umbrella Hat](/Appendix/UserNeeds-Benchmarking-Requirements/UmbrellaHat.md)
 
-[Figure 5](/Appendix/UserNeeds-Benchmarking-Requirements/WEATHERmeter.md)
+[Weather meter](/Appendix/UserNeeds-Benchmarking-Requirements/WEATHERmeter.md)
 
-[Figure 6](/Appendix/UserNeeds-Benchmarking-Requirements/WirelessDigitalThermometer.md)
+[Wireless Digital Thermometer](/Appendix/UserNeeds-Benchmarking-Requirements/WirelessDigitalThermometer.md)
