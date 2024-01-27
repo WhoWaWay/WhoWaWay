@@ -14,16 +14,10 @@
 ## Year: 2024
 ## Professor: Travis Kelley
 
-# Team Organization
-## Charter:
-* Our team's goal is to create a portable weather station to inform the user of the current UV light, humidity, and wind speed. This device should be able to water the plants/flowers by sensing the temperature and humidity, connecting to wifi as well as alerting the user of severe weather changes. 
-## Mission Statement:
-* The primary objective is to create a user-friendly smart flower pot capable of autonomously expanding its protection based on real-time environmental conditions. Additionally, the system will incorporate a feature to record wind force, enhancing the flower’s safety and convenience for the plant’s owner. This design will seamlessly integrate temperature and humidity sensors, providing an innovative solution for ultimate greenhouse protection.
-
-<img width="524" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/c4fe653e-c9f0-44e4-99d8-6589e265a104">
+# [Team Organization](/Team-Organization.md)
 
 
-##
+
 
 # User Needs, Benchmarking, and Requirement
 * After reading several product reviews, the team came up with the user needs list. We learned what the user needs in a product. Users need a product that works, easy to use with simple instructions, and does what it is meant for. Then, we sorted the user needs into five categories: pricing, features, user-friendliness, design, and safety. Users need a product that has the features they are looking for, safe to use, stable connection, and at a reasonable price. 
