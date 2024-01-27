@@ -33,9 +33,6 @@
 
 
 ## Appendix
-* One
-* Two
-* Three
 [example link to idealab](https://idealab.asu.edu)
 
 
