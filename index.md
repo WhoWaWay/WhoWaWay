@@ -41,8 +41,6 @@
 # Presentation 1
 [Team Presentation](Presentation.md)
 
-[link to background](/background.md)
-
 ## Results
 
 
