@@ -180,12 +180,12 @@ https://embedded-systems-design.bitbucket.io/314/314-team-03-user-needs-benchmar
 
 ## Voices of Customers (VOC) Benchmarking
 
-1. [Umbrella Hat](https://www.amazon.com/NEW-Vi-Umbrella-Adjustable-Multifunction-Headwear/dp/B07FD8X2RN/ref=sr_1_3_sspa?crid=2PZHDCIARUIPW&dib=eyJ2IjoiMSJ9.rNhgCldHNlWEozn5TvabkvEFu1xSr7KGwv5f0uUWkmE7Qgcm6FvkKcSJZ8emE5VF8S0-hqoX4amnEi3I8_Js989EFAwEiXv_3TyCqgz3JAl-bsvvt4nAE-o4n0UcYPkUg6c9YhQshoL0RbLdjUT1KhjbbNtMp9sGU_3kLGmr8ZKdh-lUl-I0AktEHmipffjg9bnVPaOVTSyd9AuyVxZ6oiJIUIxZI-Hy07yJi1pAVEY.tfXng0Ccd-TYoabNKbo3qXVAEdrZj4Tx_MQonbd-u7g&dib_tag=se&keywords=umbrella+hat&qid=1705460021&sprefix=umbrella+hat%2Caps%2C160&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
-2. [Ambient Weather WS-2902 WiFi Smart Weather Station](https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI/ref=sr_1_3_sspa?crid=34XFNX0N4YDBE&dib=eyJ2IjoiMSJ9.v4kYhPnpT1oi9gf1-Fb2oBYxrroIWY6f_PabLLpgyq7-33EaXmqo5SXg6NmdQJKIjDNfy1KHcds4PC5r5ZPzlHLTNiZ91dQYPw24kACpDK2NW17z4cf56eJX3pbaEHqe4ARhpEXmWIqZkx9BEYSJLqnFw17W7Gewc8rPF1XfbPkyf-Mtav_qY3JLw4wmwlE3KTSv2UFS55PNqQBid7nXPmRYJrGgZRSGya8_-_oK-XQ._q9lLvnvZLizQocuSpAPeeVjXIv-0fm0hyj0CMKXWw0&dib_tag=se&keywords=weather%2Bstation&qid=1705461566&sprefix=weather%2Bstation%2Caps%2C160&sr=8-3-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
-3. [SensorPush HT1 Wireless Digital Thermometer/Hygrometer for iPhone/Android](https://www.sensorpush.com/articles/a-passion-for-peppers)
-4. [Kestrel 3000 Pocket Weather Meter / Heat Stress Monitor](https://www.amazon.com/dp/B001JEPJZ2?tag=weathersta0fb-20)
-5. [Remote Control Helicopter](https://www.amazon.com/SYMA-Helicopter-Aircraft-Altitude-Stabilizer/dp/B0BYS2XBRQ/ref=sr_1_3_sspa?crid=3OAM62FU5J4VG&dib=eyJ2IjoiMSJ9.csJRX3QofVg2kx9tPvhvP58Dfh0qzEzkISI7d6al3I8d8v8yGpl1T_foLHP1u3z4B9A5JsYEUMpreHsoatloOsoNFFI7YoN4Q9o0hQZf3tqMgzUzNGpNCEGLr_q9DKvaKTNGqzeFswYqirg2ISOr4OAyk9Jgp-TA0FLfFHdxOEMVZHOVZJoaDGEsoOiiV833UFrD_qVmn7ch8nxnL5y7bQXTVxpEjh4WsBinDw4ztKE.DGCdqYZNnw5Z_aDpK7G5F6USqzQpUEDBpOEOUSZ8tEk&dib_tag=se&keywords=helicopter&qid=1705462380&sprefix=helicopter%2Caps%2C149&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=)
-6. [WEATHERmeter for Precision Shooting](https://www.amazon.com/Weatherflow-Wireless-Bluetooth-Windmeter-Anemometer/dp/B0BQZ8GVXL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AH6OQHCYAWTMW)
+1. [Umbrella Hat](/Appendix/UserNeeds-Benchmarking-Requirements/UmbrellaHat.md)
+2. [Ambient Weather WS-2902 WiFi Smart Weather Station](/Appendix/UserNeeds-Benchmarking-Requirements/SmartWeatherStation.md)
+3. [SensorPush HT1 Wireless Digital Thermometer/Hygrometer for iPhone/Android](/Appendix/UserNeeds-Benchmarking-Requirements/WirelessDigitalThermometer.md)
+4. [Kestrel 3000 Pocket Weather Meter / Heat Stress Monitor](/Appendix/UserNeeds-Benchmarking-Requirements/PocketWeatherMeter.md)
+5. [Remote Control Helicopter](/Appendix/UserNeeds-Benchmarking-Requirements/RemoteControlHelicopter.md)
+6. [WEATHERmeter for Precision Shooting](/Appendix/UserNeeds-Benchmarking-Requirements/WEATHERmeter.md)
 
 ## User Needs Jamboard:
 [Jamboard Before Grouping](Appendix/UserNeeds-Benchmarking-Requirements/JamboardBefore.md)
