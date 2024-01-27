@@ -6,11 +6,11 @@
 * Vendor: Ambient Weather
 
 * Description:
-** Allows you to monitor your home and backyard weather conditions with brilliant, easy-to-read LCD color display
-** Wireless all-in-one integrated sensor array measures wind speed/direction, temperature, humidity, rainfall, UV and solar radiation.
-** Supports both imperial and metric units of measure with calibration available
-** Enhanced Wi-Fi connectability option that enables your station to transmit its data wirelessly to the world's largest personal weather station network
-** Pole Mount and 3 x AAA batteries not included
+1. Allows you to monitor your home and backyard weather conditions with brilliant, easy-to-read LCD color display
+1. Wireless all-in-one integrated sensor array measures wind speed/direction, temperature, humidity, rainfall, UV and solar radiation.
+1. Supports both imperial and metric units of measure with calibration available
+1. Enhanced Wi-Fi connectability option that enables your station to transmit its data wirelessly to the world's largest personal weather station network
+1. Pole Mount and 3 x AAA batteries not included
 
 ## Negative Reviews
 <img width="710" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/b9669433-942c-4346-b2eb-b39ae6d1f819">
