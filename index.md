@@ -1,7 +1,7 @@
 # Who-Wa-Way Homepage
 <img width="666" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/5820f121-d3da-4e51-8556-4de37f0792f6">
 
-# Project: Smart Bloom Pot
+# Project: Hestia
 ## Team 205: Who-Wa-Way
 ## Team Members:
 1. LuYan Tan
