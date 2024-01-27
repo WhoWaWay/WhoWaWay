@@ -3,10 +3,10 @@
 ## Project: Smart Bloom Pot
 ## Team 205: Who-Wa-Way
 ## Team Members:
-* LuYan Tan
-* Ethan Conner
-* Maryam Younan
-* Lana Harkin
+1. LuYan Tan
+1. Ethan Conner
+1. Maryam Younan
+1. Lana Harkin
 
 
 ## Preparation Date: 1/26/2024
