@@ -10,8 +10,10 @@
 
 [Figure 2](/Appendix/UserNeeds-Benchmarking-Requirements/RemoteControlHelicopter.md)
 
-[Figure 3](/Appendix/UserNeeds-Benchmarking-Requirements/SmartWeatrherStation.md)
+[Figure 3](/Appendix/UserNeeds-Benchmarking-Requirements/SmartWeatherStation.md)
 
 [Figure 4](/Appendix/UserNeeds-Benchmarking-Requirements/UmbrellaHat.md)
 
-[Figure 5](/Appendix/UserNeeds-Benchmarking-Requirements/WirelessDigitalThermometer.md)
+[Figure 5](/Appendix/UserNeeds-Benchmarking-Requirements/WEATHERmeter.md)
+
+[Figure 6](/Appendix/UserNeeds-Benchmarking-Requirements/WirelessDigitalThermometer.md)
