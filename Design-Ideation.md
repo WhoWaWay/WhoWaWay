@@ -13,17 +13,20 @@
 # Design Concepts
 ## Concept 1: Solar Bloom Pot
 <img width="938" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/a9693e7d-0add-42fe-9e8b-a1f131aff3dd">
+
 [Vector Image](https://drive.google.com/file/d/1JyDHglmeqzPY3bKdP5IyxaXd9ySuEVkT/view?usp=drive_link)
 
 * Our first concept is a flower pot that blends sustainable technology with optimal plant care. Powered by solar panels, this eco-friendly pot features temperature and humidity sensors to determine the ideal watering schedule for plants. The built-in display showcases real-time temperature, current time, and watering history, providing plant enthusiasts with a comprehensive monitoring system as well as a portable weather station. By harnessing solar energy, the Solar Bloom Pot ensures the longevity of its smart features while promoting efficient and environmentally conscious plant care.
 
 ## Concept 2: Smart bike
 <img width="935" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/cf34500b-0288-4345-aba9-7422afa6d404">
+
 [Vector Image](https://drive.google.com/file/d/1s9QqyCtkMIzyfMfkLuDCTgAMVeyBv-7E/view?usp=drive_link)
 * Our second concept is a bike with a temperature sensor and humidity sensor. The solar panels would be on the net behind the seat, and the sensors needed would be right above the front wheel of the bike. These sensors would connect to an LCD screen to display real-time readings of the weather, which would be attached to the handle of the bike. The LCD screen would also be used for GPS, and depending on the weather alerts, it would reroute.
 
 ## Concept 3: Weather Station Smart House
 <img width="908" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/5e6416fd-49d7-4ea9-99e5-8bb5edc0e34d">
+
 [Vector Image](https://drive.google.com/file/d/12AA1TPt5EMv7Vx8NGPWli97o3b-L9zm_/view?usp=drive_link)
 * The Smart House concept can change the conditions based on the external sensors for a better home experience as a homeowner. From within the home, a weather and climate control panel is located by the patio that displays the current weather outside with various measurements along with the temperature and humidity inside the home. Using the data received from the solar panel, the smart home can also lower the patio from its stowed position for lounging in good weather. Finally, if extreme weather conditions are detected from external sources or sensors, the smart home will sound an alarm and begin a lockdown scenario (closing the patio and sealing blinds) if no further inputs from the homeowner are received.
 
