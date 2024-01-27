@@ -89,63 +89,63 @@ Assignment details:
 https://embedded-systems-design.bitbucket.io/314/314-team-03-user-needs-benchmarking-and-requirements/
 
 Identify User Needs:
-Accurate temperature sensing
-Accurate humidity sensing
-Reliable internet connectivity
-Clear and intuitive user interface
-Modularity for additional sensor integration
-Stable connectivity over WiFi using MQTT
-Energy-efficient operation
-User-friendly navigation
-Compact and portable design
-Basic weather prediction indicators
-Historical data logging
-Analysis features for data interpretation
-Durability for outdoor use
-Resistance to various weather conditions
-Long battery life
-Easy system setup
-Integration of wind speed data
-Display of sensed data on the device
-Notification alerts for extreme conditions
-User-controlled sensor calibration
-Quick response to changing environmental conditions
-Adaptable outdoor use
-Minimal maintenance requirements
-Compatibility with common mobile devices
-Affordable for a wide range of users
-Time synchronization for accurate timestamping
-Transparent data transmission processes
-Minimalistic design for aesthetic appeal
-Ergonomic and comfortable to wear or carry
-Low latency in data transmission
-Accessibility features for users with disabilities
-Inclusion of troubleshooting guides
-Water-resistant design
-GPS functionality for location-specific data
-Visual and audible feedback for user actions
-Real-time clock for timestamp accuracy
-Lightweight for extended wear
-Acceptable Pricing
-Reasonable size for battery space
-Portability 
-Aesthetically Pleasing
-Alert function
-Bright screen for readability
-Stable connection
-Reliable readings
-Stable while using other apps
-Accurate wind direction
-Accurate wind speed reading
-Built-in compass to know wind direction
-Easy to use
-Clear directions to use
-Affordable
-Good quality
-Hard casing
-Reliable software program
-Emergency alert system
+ Accurate temperature sensing
+ Accurate humidity sensing
+ Reliable internet connectivity
+ Clear and intuitive user interface
+ Modularity for additional sensor integration
+ Stable connectivity over WiFi using MQTT
+ Energy-efficient operation
+ User-friendly navigation
+ Compact and portable design
+ Basic weather prediction indicators
+ Historical data logging
+ Analysis features for data interpretation
+ Durability for outdoor use
+ Resistance to various weather conditions
+ Long battery life
+ Easy system setup
+ Integration of wind speed data
+ Display of sensed data on the device
+ Notification alerts for extreme conditions
+ User-controlled sensor calibration
+ Quick response to changing environmental conditions
+ Adaptable outdoor use
+ Minimal maintenance requirements
+ Compatibility with common mobile devices
+ Affordable for a wide range of users
+ Time synchronization for accurate timestamping
+ Transparent data transmission processes
+ Minimalistic design for aesthetic appeal
+ Ergonomic and comfortable to wear or carry
+ Low latency in data transmission
+ Accessibility features for users with disabilities
+ Inclusion of troubleshooting guides
+ Water-resistant design
+ GPS functionality for location-specific data
+ Visual and audible feedback for user actions
+ Real-time clock for timestamp accuracy
+ Lightweight for extended wear
+ Acceptable Pricing
+ Reasonable size for battery space
+ Portability 
+ Aesthetically Pleasing
+ Alert function
+ Bright screen for readability
+ Stable connection
+ Reliable readings
+ Stable while using other apps
+ Accurate wind direction
+ Accurate wind speed reading
+ Built-in compass to know wind direction
+ Easy to use
+ Clear directions to use
+ Affordable
+ Good quality
+ Hard casing
+ Reliable software program
+ Emergency alert system
  Protection Layer
-Armour plating
-DEICING
-Onion ring design
+ Armour plating
+ DEICING
+ Onion ring design
