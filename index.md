@@ -16,9 +16,9 @@
 
 # Team Organization
 ## Charter:
-Our team's goal is to create a portable weather station that can inform the user of the current temperature and wind speed. This device should be able to connect to wifi as well as physically protect the user from rain.
+* Our team's goal is to create a portable weather station that can inform the user of the current temperature and wind speed. This device should be able to connect to wifi as well as physically protect the user from rain.
 ## Mission Statement:
-The primary objective is to create a user-friendly umbrella hat capable of autonomously expanding its protective umbrella based on real-time environmental conditions. Additionally, the system will incorporate a feature to record wind force, enhancing user safety and convenience. This design will seamlessly integrate temperature and humidity sensors, providing an innovative solution for personal weather protection. 
+* The primary objective is to create a user-friendly umbrella hat capable of autonomously expanding its protective umbrella based on real-time environmental conditions. Additionally, the system will incorporate a feature to record wind force, enhancing user safety and convenience. This design will seamlessly integrate temperature and humidity sensors, providing an innovative solution for personal weather protection. 
 # User Needs, Benchmarking, and Requirement
 
 # Design Ideation
