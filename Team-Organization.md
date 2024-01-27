@@ -5,5 +5,5 @@
 
 <img width="524" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/c4fe653e-c9f0-44e4-99d8-6589e265a104">
 
-[Figure 1](Appendix/TeamOrganization/Figure1)
+[Figure 1](Appendix/TeamOrganization/Figure1.md)
 
