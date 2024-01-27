@@ -4,6 +4,38 @@
 * The primary objective is to create a user-friendly smart flower pot capable of autonomously expanding its protection based on real-time environmental conditions. Additionally, the system will incorporate a feature to record wind force, enhancing the flower’s safety and convenience for the plant’s owner. This design will seamlessly integrate temperature and humidity sensors, providing an innovative solution for ultimate greenhouse protection.
 
 
+[Figure 1: Contact](Appendix/TeamOrganization/Figure1.md)
+
+## Communication Procedures:
+1. How will your team communicate (e.g., group text, email, Canvas, slack, discord, telephone)? 
+
+Mainly via texting, zoom, and in-person meetings.
+
+2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+
+Lana, the meeting leader, will function as PR for the group and take control of the situation.
+
+
+[Figure 2: Team Member's Availability](Appendix/TeamOrganization/Figure2.md)
+
+
+## Meeting Coordination
+1. What method will you use to remind yourselves of meetings (a shared calendar?)
+
+Meetings will usually be planned a few days early. A reminder will be sent to the group on the meeting day. However, each member needs to plan their schedule ahead of time.
+
+2. How will your team go about changing or adding meeting times?
+
+Additional meetings will be scheduled occasionally when more time is needed to complete a task. Anyone unable to attend the meeting should notify others in advance.
+
+3. What's the preferred format for meetings (face-to-face or virtually)?
+
+Prefer in-person meetings. However, virtual meetings can be held when it’s late or during the weekend.
+
+
+[Figure 3: Roles & Responsibilities](Appendix/TeamOrganization/Figure3.md)
+
+
 ## Roles and Responsibilities
 1. How often will you change project roles?
 
