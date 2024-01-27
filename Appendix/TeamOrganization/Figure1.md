@@ -1,2 +1,2 @@
-![image](https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/835ee492-1ff5-4c7e-bdf0-0672fc6cd511)
+![image](https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/1912eab1-2354-4c6f-8bbd-436f5fd32b35)
 
