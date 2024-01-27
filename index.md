@@ -23,8 +23,7 @@
 
 # [Design Ideation](/Design-Ideation.md)
 
-# Presentation 1
-[Team Presentation](Presentation.md)
+# [Team Presentation](Presentation.md)
 
 [link to background](/background.md)
 ## Results
