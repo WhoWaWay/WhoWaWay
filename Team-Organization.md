@@ -1,4 +1,5 @@
 
+![image](https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/1912eab1-2354-4c6f-8bbd-436f5fd32b35)
 
 
 [Figure 1: Contact](Appendix/TeamOrganization/Figure1.md)
@@ -11,6 +12,7 @@ Mainly via texting, zoom, and in-person meetings.
 * How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
 
 Lana, the meeting leader, will function as PR for the group and take control of the situation.
+
 
 
 [Figure 2: Team Member's Availability](Appendix/TeamOrganization/Figure2.md)
