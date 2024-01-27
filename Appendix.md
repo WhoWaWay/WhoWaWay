@@ -28,5 +28,5 @@
 
 # Design Ideation
 ## Jamboard:
-[Jamboard](/Appendix/Design-Ideation/Jamboard.md)
+[Jamboard Before and After Grouping](/Appendix/Design-Ideation/Jamboard.md)
 
