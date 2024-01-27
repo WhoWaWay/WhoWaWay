@@ -187,8 +187,12 @@ https://embedded-systems-design.bitbucket.io/314/314-team-03-user-needs-benchmar
 5. [Remote Control Helicopter](https://www.amazon.com/SYMA-Helicopter-Aircraft-Altitude-Stabilizer/dp/B0BYS2XBRQ/ref=sr_1_3_sspa?crid=3OAM62FU5J4VG&dib=eyJ2IjoiMSJ9.csJRX3QofVg2kx9tPvhvP58Dfh0qzEzkISI7d6al3I8d8v8yGpl1T_foLHP1u3z4B9A5JsYEUMpreHsoatloOsoNFFI7YoN4Q9o0hQZf3tqMgzUzNGpNCEGLr_q9DKvaKTNGqzeFswYqirg2ISOr4OAyk9Jgp-TA0FLfFHdxOEMVZHOVZJoaDGEsoOiiV833UFrD_qVmn7ch8nxnL5y7bQXTVxpEjh4WsBinDw4ztKE.DGCdqYZNnw5Z_aDpK7G5F6USqzQpUEDBpOEOUSZ8tEk&dib_tag=se&keywords=helicopter&qid=1705462380&sprefix=helicopter%2Caps%2C149&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=)
 6. [WEATHERmeter for Precision Shooting](https://www.amazon.com/Weatherflow-Wireless-Bluetooth-Windmeter-Anemometer/dp/B0BQZ8GVXL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AH6OQHCYAWTMW)
 
-## [Jamboard Before Grouping]
-## [Jamboard After Grouping]
+## User Needs Jamboard:
+[Jamboard Before Grouping](Appendix/UserNeeds-Benchmarking-Requirements/JamboardBefore.md)
+
+[Jamboard After Grouping](Appendix/UserNeeds-Benchmarking-Requirements/JamboardAfter.md)
+
+[Jamboard After Ranking](Appendix/UserNeeds-Benchmarking-Requirements/JamboardRanking.md)
 
 
 
