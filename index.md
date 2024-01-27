@@ -10,7 +10,7 @@
 1. Lana Harkin
 ## Preparation Date: 1/26/2024
 ## University: Arizona State University (ASU)
-## Class Name: EGR314:Embedded System Design Project II
+## Class Name: EGR314: Embedded System Design Project II
 ## Semester: Spring
 ## Year: 2024
 ## Professor: Travis Kelley
