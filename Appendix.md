@@ -1,9 +1,9 @@
 # Team Organization
-[Figure 1](/Appendix/TeamOrganization/Figure1.md)
+[Figure 1: Contact](Appendix/TeamOrganization/Figure1.md)
 
-[Figure 2](/Appendix/TeamOrganization/Figure2.md)
+[Figure 2: Team Member's Availability](Appendix/TeamOrganization/Figure2.md)
 
-[Figure 3](/Appendix/TeamOrganization/Figure3.md)
+[Figure 3: Roles & Responsibilities](Appendix/TeamOrganization/Figure3.md)
 
 # User Needs, Benchmarking, and Requirements
 [Pocket Weather Meter](/Appendix/UserNeeds-Benchmarking-Requirements/PocketWeatherMeter.md)
