@@ -48,7 +48,7 @@ From that day on, Ethan’s garden became the focal point of his village. People
 Sarah loved gardening but she didn’t have a green thumb. She invested in a smart flower pot that could detect the moisture level of the soil, the amount of sunlight the plant was receiving, and the temperature of the environment. The pot would send her notifications on her phone when the plant needed water or when it was getting too much sunlight. Sarah was thrilled with her new purchase and planned to defend her home from the zombie horde.
 
 ## Aspects
-1. 	Product Design
+### 	Product Design
 
 The new product design will be based on that of the Umbrella Hat with improvements based on the following requirements:’
 
@@ -58,7 +58,7 @@ The new product design will be based on that of the Umbrella Hat with improvemen
  * 1.4 Compact and portable design
  * 1.5 Modularity for additional sensor integration
 
-2.  Functionality
+###  Functionality
    
 * 2.1 Temperature Sensor
 * 2.3 Wind Speed
@@ -70,21 +70,21 @@ The new product design will be based on that of the Umbrella Hat with improvemen
 * 2.9 Emergency Alerts
 * 2.10 Compatibility
 
-3. 	Interactivity
+### 	Interactivity
 
 * 3.1  WiFi  Connection
   
-4. 	Adaptive Intelligence
+### 	Adaptive Intelligence
    
 * 4.1 Protect yourself from getting sunburn
 
-5. 	Customization
+### 	Customization
    
 * 5.1 Onion rings print
 * 5.2 RGB Light
 * 5.3 Color Customization
   
-6. 	Manufacturing
+### 	Manufacturing
    
 * 6.1 Water-resistant materials such as nylon will be used for the umbrella.
 * 6.2 A microcontroller that can be used for inputting the sensor’s signal and output the information.
