@@ -39,8 +39,6 @@
 * All team members participated in generating ideas for the three design concepts. For the final designs and details for the 3 designs, Lana designed the Solar Bloom Pot, Maryam provided the GPS bicycle idea, and Ethan created the Smart House concept. LuYan created and sketched the diagrams for the Solar Bloom Pot and GPS bicycle, and Ethan sketched the concepts for the Smart House.
 
 # Presentation 1
-[Team 205 Presentation](https://youtu.be/2uYKR5V-WF4?si=a0ECjcEHt2iz6rB6)
-
 [Team Presentation](Presentation.md)
 
 [link to background](/background.md)
