@@ -27,5 +27,4 @@
 # [Team Presentation](Presentation.md)
 
 # [Appendix](/Appendix.md)
-[link to background](/background.md)
 
