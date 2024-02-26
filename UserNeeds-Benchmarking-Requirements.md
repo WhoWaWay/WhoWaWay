@@ -1,25 +1,25 @@
 # User Needs, Benchmarking, and Requirement
 * After reading several product reviews, the team came up with the user needs list. We learned what the user needs in a product. Users need a product that works, easy to use with simple instructions, and does what it is meant for. Then, we sorted the user needs into five categories: pricing, features, user-friendliness, design, and safety. Users need a product that has the features they are looking for, safe to use, stable connection, and at a reasonable price. 
 
-# Helicopter Umbrella Hat
+# Weather R/C Robot
 Date of Creation: 1/17/2024
 
-Version 1.0
+Version 1.2
 
 ## Introduction
 Who-wa-way was among the first truly beat pad sleeves and generated excessive demand with sales units in just the first year after launch. These will be backed by technological developments such as the microcontroller chip, Cypress CY8C4146FN PSoC, dual beam-forming microphones, Bluetooth 5.2, iOS Bluebonnet, force-sensitive resistors, gyroscopes, and IR proximity sensors.
 
 ## Objectives
-With Project Hestia, the goal is to create something that prevents moisture and detects temperature during outdoor activities. It is designed for those with weak limbs who want something to stand out from the common masses.
+With Project Hestia, the goal is to create something that can measure moisture and detect temperature during outdoor activities. It is designed for those interested in accurately recording the weatherscape in various environments while having the option to use it for recreation.
 
 ## Stakeholders & Target group: 
-Plants Lovers, and plant researcher
+R/C enthusiasts, and Environmental Researchers
 ## Target purchaser: 
-Plant lovers, people who don’t have time to take care of their plants
+Parents, R/C enthusiasts, Meteorologists, Weather Chasers
 ## Customer service: 
-Prefers affordable, comfortable products, and user-friendly experiences.
+Prefers affordable, innovative products, and user-friendly experiences.
 ## Marketing & Sales division: 
-Unique selling point with nothing seen in the market before. 
+Unique selling point with nothing seen in the market before combined with an existing product for a larger potential consumer base. 
 ## Retailers: 
 Prefer products that can withstand a variety of environments, catalog based.
 ## Regulatory instances: 
@@ -37,15 +37,15 @@ Prefer products that can withstand a variety of environments, catalog based.
 ## Use Cases
 * User Story #1: Ethan Conner (AI)
   
-Once upon a time, there was a man named Ethan Conner who loved gardens but had a hard time remembering to water them. One day, he decided to invest in a smart flower pot that would help him take care of his plants. The pot was equipped with sensors that could detect the moisture level of the soil, the amount of sunlight the plant was receiving, and the temperature of the environment.
-Ethan was thrilled with his new purchase and immediately planted a Chrysanthemum in the pot. He was amazed at how quickly the plant began to grow and how green it looked in person. The smart flower pot would send him notifications on his phone when the plant needed water or when it was getting too much sunlight.
-Ethan was so impressed with the smart flower pot that he decided to buy more and expand his new garden. He spent hours every day tending to his plants and watching them grow. He even started to experiment with different types of plants and flowers to see which ones would thrive in the smart flower pots.
-One day, Ethan’s neighbor came over to admire his garden. She was so impressed with the smart flower pots that she decided to buy one for herself. Ethan was happy to know that his neighbors also had a hard time making time for plants and excitedly explained the setup process.
-From that day on, Ethan’s garden became the focal point of his village. People would come from all over to see his beautiful plants and flowers. Ethan was proud of what he had accomplished and was grateful for the smart flower pot that had helped him achieve his dream of opening a garden.
+Once upon a time, there was a man named Ethan Conner who loved gardens but had a hard time remembering to monitor weather conditions. One day, he decided to invest in a weather-tracking R/C car that would help him take care of his plants. The car was equipped with sensors that could detect the moisture level in the air, the amount of sunlight the plant was receiving, and the temperature of the environment.
+Ethan was thrilled with his new purchase and immediately planted a Chrysanthemum in his new garden. He was amazed at how quickly the plant began to grow and how green it looked in person. The weather-tracking R/C car would send him notifications on his phone when the plant needed adjustments in water or when it was getting too much sunlight.
+Ethan was so impressed with the weather-tracking R/C car that he decided to buy more and expand his new garden. He spent hours every day tending to his plants and watching them grow. He even started to experiment with different types of plants and flowers to see which ones would thrive under the watchful eye of the weather-tracking R/C cars.
+One day, Ethan’s neighbor came over to admire his garden. She was so impressed with the weather-tracking R/C cars that she decided to buy one for herself. Ethan was happy to know that his neighbors also had a hard time making time for plants and excitedly explained the setup process.
+From that day on, Ethan’s garden became the focal point of his village. People would come from all over to see his beautiful plants and flowers, all flourishing under the guidance of the weather-tracking R/C cars. Ethan was proud of what he had accomplished and was grateful for the innovative technology that had helped him achieve his dream of cultivating a thriving garden.
 
 * User Story #2: Sarah (AI)
   
-Sarah loved gardening but she didn’t have a green thumb. She invested in a smart flower pot that could detect the moisture level of the soil, the amount of sunlight the plant was receiving, and the temperature of the environment. The pot would send her notifications on her phone when the plant needed water or when it was getting too much sunlight. Sarah was thrilled with her new purchase and planned to defend her home from the zombie horde.
+Sarah loved to chase storms, and was getting excited about collecting data from within the storm. As her hobby was still a new fascination, Sarah was not ready to invest large sums of money towards modifying a vehicle to withstand the storm. She invested in a Weather Tracking R/C that could detect the moisture level of the air, the amount of sunlight the area was receiving, and the temperature of the environment. The R/C would send her notifications on her phone that can be changed to update every 15 seconds or less about the newest data. Sarah was thrilled about the idea of collecting data from within storms without needing to put herself or others in immediate harm and began testing it in the next Tornado Season.
 
 ## Aspects
 ### 	Product Design
@@ -76,7 +76,7 @@ The new product design will be based on that of the Umbrella Hat with improvemen
   
 ### 	Adaptive Intelligence
    
-* 4.1 Protect yourself from getting sunburn
+* 4.1 Patrol areas that may change often with an updating local map.
 
 ### 	Customization
    
@@ -86,7 +86,7 @@ The new product design will be based on that of the Umbrella Hat with improvemen
   
 ### 	Manufacturing
    
-* 6.1 Water-resistant materials such as nylon will be used for the umbrella.
+* 6.1 Water-resistant materials such as nylon will be used for the body.
 * 6.2 A microcontroller that can be used for inputting the sensor’s signal and output the information.
 * 6.3 Cost must be lower than the selling price.
 
@@ -94,7 +94,7 @@ The new product design will be based on that of the Umbrella Hat with improvemen
 ## Open Questions
 
 Can we improve the battery life if we use drones?
-Can our design both open and close the umbrella autonomously?
+Can our design be durable and compact even in the case of user modifications?
 Can we have good WiFi connection?
 
 ## Milestones
