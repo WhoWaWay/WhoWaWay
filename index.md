@@ -31,7 +31,7 @@
 
 # [Team Presentation](Presentation.md)
 
-# [Selected Design(New)](/Selected-Design.md)
+# [Selected Design(New)](/New-Selected-Design.md)
 
 # [Block Diagram(New)](/Block-Diagram.md)
 
