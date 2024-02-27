@@ -31,5 +31,15 @@
 
 # [Team Presentation](Presentation.md)
 
+# [Selected Design(New)](/Selected-Design.md)
+
+# [Block Diagram(New)](/Block-Diagram.md)
+
+# [Component Selection(New)](/Component-Selection.md)
+
+# [Hardware Proposal(New)](/Hardware-Proposal.md)
+
+# [Software Propsoal(New)](/Software-Proposal.md)
+
 # [Appendix](/Appendix.md)
 
