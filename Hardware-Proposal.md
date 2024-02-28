@@ -1,1 +1,1 @@
-<img width="911" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/ca3426e1-dedf-4649-b9b1-200aa93112fa">
+![EGR314_Team205_Schematic-1](https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/95d77cf2-481b-4f20-b52d-b487325469f4)
