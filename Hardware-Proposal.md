@@ -9,4 +9,5 @@ The schematic shows the components the team will use in the prototype. The main 
 * 5 sensors (Humidity Sensor, Temperature Sensor, Atmospheric Sensor, UV Light Sensor, Hall Effect Sensor)
 * A switching regulator to provide 3.3V for the microcontroller and sensors 
 * A 6.6V power regulator for the stepper motor
+
 The humidity and temperature sensors are the team’s main subsystems for this project. We have three extra sensors for the prototype which will be kept in the final design if they work because we think that a weather station should be able to output more weather information than just temperature and humidity data.
