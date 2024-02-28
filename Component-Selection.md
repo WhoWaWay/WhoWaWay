@@ -1,6 +1,3 @@
-# Team 205 Bill of Material
-<img width="1274" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/37ee03b9-fc68-4870-8da3-560d0c111922">
-
 # Component Selection
 
 We have researched 3 different types of each component, motors, sensors, and microcontrollers. Then we each agreed on which components would work best together and rated them accordingly. Then we voted on which ones we wanted to work with.
@@ -17,6 +14,7 @@ We have researched 3 different types of each component, motors, sensors, and mic
 ## Motor Driver
 <img width="620" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/562a3801-0677-43ba-9cd5-7c49326901f7">
 
-
+# Team 205 Bill of Material
+<img width="1274" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/37ee03b9-fc68-4870-8da3-560d0c111922">
 
 
