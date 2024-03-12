@@ -8,7 +8,7 @@ The schematic shows the components the team will use in the prototype. The main 
 * An OLED screen for showing sensor data
 * An ESP32 for WiFi connection
 * A stepper motor for wheel steering
-* 5 sensors (Humidity Sensor, Temperature Sensor, Atmospheric Sensor, UV Light Sensor, Hall Effect Sensor)
+* 5 sensors (Humidity Sensor, Temperature Sensor, UV Light Sensor, Hall Effect Sensor)
 * A switching regulator to provide 3.3V for the microcontroller and sensors 
 * A 6.6V power regulator for the stepper motor
 
