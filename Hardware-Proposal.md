@@ -1,5 +1,7 @@
 # Hardware Proposal
-![EGR314_Team205_Schematic-1](https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/95d77cf2-481b-4f20-b52d-b487325469f4)
+
+<img width="755" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/72d3be2b-2bc7-435c-84a9-3d768927d859">
+
 
 The schematic shows the components the team will use in the prototype. The main components include:
 * A 16-bit microcontroller 
