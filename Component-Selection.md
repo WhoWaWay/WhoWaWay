@@ -18,6 +18,8 @@ https://docs.google.com/document/d/18oQHup49Q_7FW5F8mVLIEvQYwFcOrFhIgcje3IErTkk/
 
 # Power Budget
 ![image](https://github.com/WhoWaWay/WhoWaWay.github.io/assets/156974895/aee55b54-6bc2-4793-89ba-b57b1cdcd225)
+![image](https://github.com/WhoWaWay/WhoWaWay.github.io/assets/156974895/77e66156-2c3a-4cb2-896a-5585c66a1e20)
+
 
 # Team 205 Bill of Material
 <img width="1274" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/37ee03b9-fc68-4870-8da3-560d0c111922">
