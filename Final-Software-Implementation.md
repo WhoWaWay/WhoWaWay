@@ -1,4 +1,4 @@
-# Setup
+# Software Setup
 <img width="939" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/07713e0a-14a9-4e0b-ae5e-5cdcea9590e5">
 
 # Pin Manager
