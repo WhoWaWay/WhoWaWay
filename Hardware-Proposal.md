@@ -1,6 +1,6 @@
 # Hardware Proposal
 
-<img width="755" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/72d3be2b-2bc7-435c-84a9-3d768927d859">
+<img width="941" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/e7bff224-3220-46e1-8b2f-25e3c086d344">
 
 
 The schematic shows the components the team will use in the prototype. The main components include:
