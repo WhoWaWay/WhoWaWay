@@ -2,5 +2,5 @@
 layout: default
 title: Home
 stylesheets: 
-  WhoWaWay.github.io\style.css
+  "WhoWaWay.github.io\style.css"
 ---
