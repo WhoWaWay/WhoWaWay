@@ -1,4 +1,6 @@
 ---
-title: My Page
-stylesheets: /style.css
+layout: default
+title: Home
+stylesheets: 
+  - /style.css
 ---
