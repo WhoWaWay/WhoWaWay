@@ -34,6 +34,6 @@
 ## Code
 [MPLAB X Code](https://github.com/WhoWaWay/WhoWaWay.github.io/tree/main/Appendix/PIC)
 
-[ESP32 Code](/Appendix/ESP32/EGR314Project/async_mqtt_uart.py)
+[ESP32 Code](https://github.com/WhoWaWay/WhoWaWay.github.io/tree/main/Appendix/ESP32)
 
 
