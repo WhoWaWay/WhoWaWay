@@ -37,9 +37,13 @@
 
 # [Component Selection](/Component-Selection.md)
 
-# [Hardware Proposal](/Hardware-Proposal.md)
+# [Final Software Implementation](/Final-Software-Implementation.md)
 
-# [Software Propsoal](/Software-Proposal.md)
+# [Final Hardware Implementation](/Final-Software-Implementation.md)
+
+# [System Verification Matrix](/System-Verification.md)
+
+# [Recommendation For Future Students](/Recommendations-For-Future-Students.md)
 
 # [Appendix](/Appendix.md)
 
