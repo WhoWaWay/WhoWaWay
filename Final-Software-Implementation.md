@@ -3,3 +3,4 @@
 
 Due to the design of our software, all of the sensor data will be handled internally and only the refined data will be handled by the users. This will reduce the amount of confusion users face. The way our device will work is that it will initialize the system, go into a loop that reads all the sensors, and output the data to the OLED screen. While the loop is running, if the user inputs a signal to the RC car, the signal will interrupt the main loop and gain control of the car.
 
+# 5 Main Changes
