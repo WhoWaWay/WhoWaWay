@@ -43,9 +43,9 @@
 
 # [System Verification Matrix](/System-Verification.md)
 
-# [Recommendation For Future Students](/Recommendations-For-Future-Students.md)
-
 # [Lesson Learned](/Lessons-Learned.md)
+
+# [Recommendation For Future Students](/Recommendations-For-Future-Students.md)
 
 # [Appendix](/Appendix.md)
 
