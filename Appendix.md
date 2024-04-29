@@ -31,5 +31,8 @@
 [Jamboard Before and After Grouping](/Appendix/Design-Ideation/Jamboard.md)
 
 # Software-Implementation
-## [MPLAB X Code](/Appendix/EGR314Porject)
+## Code
+[MPLAB X Code](/Appendix/PIC)
+[ESP32 Code](/Appendix/ESP32/EGR314Project)
+
 
