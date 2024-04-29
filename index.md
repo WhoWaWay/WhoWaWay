@@ -45,5 +45,7 @@
 
 # [Recommendation For Future Students](/Recommendations-For-Future-Students.md)
 
+# [Lesson Learned](/Lessons-Learned.md)
+
 # [Appendix](/Appendix.md)
 
