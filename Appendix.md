@@ -32,7 +32,7 @@
 
 # Software-Implementation
 ## Code
-[MPLAB X Code](https://github.com/WhoWaWay/WhoWaWay.github.io/tree/main/Appendix/PIC)
+[[MPLAB X Code](https://github.com/WhoWaWay/WhoWaWay.github.io/tree/main/Appendix/PIC)](https://github.com/WhoWaWay/WhoWaWay.github.io/tree/main/Appendix/PIC)
 
 [[ESP32 Code](https://github.com/WhoWaWay/WhoWaWay.github.io/tree/main/Appendix/ESP32)](https://github.com/WhoWaWay/WhoWaWay.github.io/tree/main/Appendix/ESP32/EGR314Project)
 
