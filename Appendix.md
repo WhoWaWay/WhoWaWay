@@ -36,4 +36,8 @@
 
 [[ESP32 Code](https://github.com/WhoWaWay/WhoWaWay.github.io/tree/main/Appendix/ESP32)]
 
+[MCC Setup](/Appendix/Software-Implementation/MCC-Setup.md)
+
+[MQTT Topic Table](/Appendix/Software-Implementation/MQTT-Topic-Table.md)
+
 
