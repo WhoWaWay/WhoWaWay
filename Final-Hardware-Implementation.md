@@ -24,4 +24,5 @@ The humidity and temperature sensors are the team’s main subsystems for this p
 ![IMG_6727](https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/f5adbc67-8c8c-41e4-a12b-677a5affa2a2)
 ![IMG_6726](https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/a8177902-aea2-4d3c-99e2-bd300f24e22f)
 
-In our final design, we managed to get everything to work as expected. Although the UV light sensor is not used in the showcase due to a limited time frame, components including the humidity, temperature, and hall effect sensors, and the motor components all work together as expected. 
+## Result and Future Changes
+In our final design, we managed to get everything to work as expected. Although the UV light sensor is not used in the showcase due to a limited time frame, components including the humidity, temperature, and hall effect sensors, and the motor components all work together as expected. If there were to be a version 2.0, we need to have a more precise 3d model so that the car can move without skewing to one side. We also think that the OLED is not as useful since it's put on the car that moves around most of the time and will only decrease the battery life. What would be useful is adding a camera to increase the control distance. We can also have a higher-capacity battery and a suspension for an overall better-performance RC car.
