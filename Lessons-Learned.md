@@ -16,8 +16,9 @@ While working on this project as a team, we have learned and gained a lot of ski
 
 7. We conducted thorough testing and debugging processes, refining the product for reliability and performance.
 
-8. 
+8. We learned to utilize several data fusion techniques to ensure accurate and reliable measurements when integrating multiple sensors for measuring various weather parameters.
 
-9.
+9.  We understood how to integrate interrupt-driven communication whenever possible to reduce processor overhead and improve efficiency. 
 
-10.
+10. We learned the importance of implementing error detection and handling mechanisms to identify and recover from communication errors, such as data corruption, or device malfunctions.
+We learned how to ensure compatibility between SPI/I2C devices by verifying voltage levels, communication speed, and protocol compatibility. 
