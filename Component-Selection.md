@@ -2,9 +2,6 @@
 
 We have researched 3 different types of each component, motors, sensors, and microcontrollers. Then we each agreed on which components would work best together and rated them accordingly. Then we voted on which ones we wanted to work with.
 
-## Microcontroller Selection
-![MCU Selection](https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/cef5a5ad-0936-432f-854e-9a6a084ca8e5)
-
 ## Humidity Sensor
 <img width="776" alt="image" src="https://github.com/WhoWaWay/WhoWaWay.github.io/assets/157083035/209d0464-479d-4ec4-8c6e-fd0f5dff3183">
 
