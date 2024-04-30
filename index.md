@@ -39,7 +39,7 @@
 
 # [Final Software Implementation](/Final-Software-Implementation.md)
 
-# [Final Hardware Implementation](/Final-Software-Implementation.md)
+# [Final Hardware Implementation](/Final-Hardware-Implementation.md)
 
 # [System Verification Matrix](/System-Verification.md)
 
